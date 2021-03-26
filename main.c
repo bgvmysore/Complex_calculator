@@ -22,4 +22,4 @@ int main(){
     complexDiv(&a, &b, &c);
     printf("%f %f\n\n", c.real, c.imaginary);
     return 0;
-}
+}//end
